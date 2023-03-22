@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @larbi1512
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning javascript and Python
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ...
 
