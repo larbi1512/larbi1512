@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Larbi SAIDCHIKH </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Data+Science+and+machine-learning+entheusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Data+Science+entheusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
@@ -16,14 +16,15 @@
 <a href="https://www.instagram.com/larbisaidchikh/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://achhoubiplus.hashnode.dev" target="_blank">
+<a href="https://discord.com/_larbi" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
 
-## <picture><img src = "https://github.com/larbi1512/larbi1512/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+##  **About me**
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me ...
+- :computer: Currently learning mobile dev (Flutter)
 
+## **Github Profile stats**
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
