@@ -22,7 +22,8 @@
 ##  **About me**
 - 💞️ I’m looking to collaborate on different projects
 - :computer: Currently learning mobile dev (Flutter)
-- ☕ coffee addict 
+- ☕ coffee addict
+- data science enthusiast 
 
 ## **Github Profile stats**
 <p align="center">
