@@ -13,8 +13,14 @@
 <a href="https://twitter.com/larbisaidchikh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.kaggle.com/larbisck" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%ff5851db.svg?color=1DA1F3&style=for-the-badge&logo=kaggle&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.instagram.com/larbisaidchikh/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/larbisck" target="_blank">
+<img src=https://img.shields.io/badge/behance-%ff5851db.svg?color=C16284&style=for-the-badge&logo=behance&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 
