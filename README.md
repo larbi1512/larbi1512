@@ -23,7 +23,7 @@
 <img src=https://img.shields.io/badge/behance-%ff5851db.svg?color=C16284&style=for-the-badge&logo=behance&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-
+## **Tech Stack**
 
 ##  **About me**
 - 💞️ I’m looking to collaborate on different projects
@@ -45,11 +45,15 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=larbi1512&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=larbi1512&theme=dark&hide_border=false&no-bg=false&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+
+## **Top contributions**
+
+![](https://github-contributor-stats.vercel.app/api?username=larbi1512&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
