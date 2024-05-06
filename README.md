@@ -33,11 +33,18 @@
 
 ## **Github Profile stats**
 <p align="center">
+  <img src="https://user-badge.committers.top/algeria/larbi1512.svg"/>
+ <a href="https://github.com/larbi1512/">
+    <img src="https://komarev.com/ghpvc/?username=larbi1512" alt="visitors" />
+  </a>
+</p>
+
+  
+<p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img src="https://user-badge.committers.top/algeria/larbi1512.svg"/>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=larbi1512&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=larbi1512&theme=dark&hide_border=false" /> 
