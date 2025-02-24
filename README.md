@@ -32,7 +32,7 @@
 
 ## **Github Profile stats**
 <p align="center">
-  <img src="https://user-badge.committers.top/algeria/larbi1512.svg"/>
+<!--   <img src="https://user-badge.committers.top/algeria/larbi1512.svg"/> -->
  <a href="https://github.com/larbi1512/">
     <img src="https://komarev.com/ghpvc/?username=larbi1512" alt="visitors" />
   </a>
