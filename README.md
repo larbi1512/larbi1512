@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Larbi SAIDCHIKH </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Data+Science+entheusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;AI+Data+Science+Student,;Active+Learner/Researcher,;Love+to+explore+new+adventures...<3"></a>
 </p>
 
 <br>
@@ -25,10 +25,10 @@
 
 
 ##  **About me**
-- 💞️ I’m looking to collaborate on different web & data science projects
+- 💞️ I am 4 th year AI and data science student at the national higher school of artificial intelligence - Algiers
+- 💻 looking to collaborate on different web & data science projects 
 - ✏️ UI/Ux designer 
 - ☕ coffee addict 
-- data science enthusiast 
 
 ## **Github Profile stats**
 <p align="center">
@@ -60,6 +60,11 @@
 ## **Top contributions**
 <img align="center" src="https://github-contributor-stats.vercel.app/api?username=larbi1512&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories :) !
+  
+</div>
 
 
 
