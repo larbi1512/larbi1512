@@ -25,8 +25,8 @@
 
 
 ##  **About me**
-- 💞️ I am 4 th year AI and data science student at the national higher school of artificial intelligence - Algiers
-- 💻 looking to collaborate on different web & data science projects 
+- 💞️ I am a final year AI and data science student at the national higher school of artificial intelligence - Algiers
+- 💻 looking to collaborate on different AI & data science projects 
 - ✏️ UI/Ux designer 
 - ☕ coffee addict 
 
