@@ -57,11 +57,6 @@
 </tr>
 </table>
 
-## **Top contributions**
-<img align="center" src="https://github-contributor-stats.vercel.app/api?username=larbi1512&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-<div align="center">
-
 ### Show some ❤️ by starring some of the repositories :) !
   
 </div>
