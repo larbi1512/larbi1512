@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hi , I'm Larbi SAIDCHIKH </b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;AI+Data+Science+Engineer+and+Researcher ,;Active+Learner/Researcher,;Love+to+explore+new+adventures...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..%E2%99%A5%2B%2B;AI+Data+Science+Engineer+and+Researcher;Active+Learner%2FResearcher;Love+to+explore+new+adventures...%3C3" alt="Typing introduction">
+  </a>
 </p>
 
 <br>
