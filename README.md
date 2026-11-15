@@ -62,7 +62,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=larbi1512&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Larbi's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larbi1512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Larbi's most-used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larbi1512&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Larbi's most-used languages" />
 </p>
 
 <p align="center">
