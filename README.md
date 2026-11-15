@@ -42,13 +42,12 @@
 </p>
 
   
-<p align="center">
-  <!--- stats (start) -->
+<!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=larbi1512&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+  <br />
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=larbi1512&theme=dark&hide_border=false" /> 
 </td>
 
@@ -61,8 +60,3 @@
 </table>
 
 ### Show some ❤️ by starring some of the repositories :) !
-  
-</div>
-
-
-
