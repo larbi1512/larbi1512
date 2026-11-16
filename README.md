@@ -7,7 +7,7 @@
  <!-- <sub>📍 Sophia Antipolis, France &nbsp;·&nbsp; 🇩🇿 from Algeria</sub> -->
 </p>
 
-<a href="https://www.larbisck.me/"><img src="https://img.shields.io/badge/Portfolio-larbisck.me-7AA2F7?style=flat-square&labelColor=1A1B26" alt="Portfolio" /></a>
+<a href="https://larbi-saidchikh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-larbisck.me-7AA2F7?style=flat-square&labelColor=1A1B26" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/larbi-saidchikh-0621b0224"><img src="https://img.shields.io/badge/LinkedIn-Larbi_Said_Chikh-0A66C2?style=flat-square&labelColor=1A1B26" alt="LinkedIn" /></a>
 <a href="mailto:larbisck@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1B26" alt="Email" /></a>
 
