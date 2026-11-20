@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=hey%2C+I%27m+Larbi+%F0%9F%91%8B;building+agents+that+run+networks;designing+calm+interfaces+for+complex+ideas" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=hey%2C+I%27m+Larbi+%F0%9F%91%8B;building+agentic+systems;designing+calm+interfaces+for+complex+ideas" alt="Typing intro" />
 
 <p>
-  <b>AI researcher</b> · <b>AI engineer</b> · <b>UI/UX designer</b><br/>
+  <b>AI researcher</b> · <b>AI & software engineer</b> · <b>UI/UX designer</b><br/>
  <!-- <sub>📍 Sophia Antipolis, France &nbsp;·&nbsp; 🇩🇿 from Algeria</sub> -->
 </p>
 
